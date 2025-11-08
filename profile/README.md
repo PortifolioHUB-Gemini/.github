@@ -41,7 +41,7 @@ Implantar uma plataforma para armazenar, organizar e apresentar portfólios digi
 
 ## 🔗 Links Necessários
 
-- 📁 Google Drive do Projeto: [Acessar pasta]([https://drive.google.com/drive/folders/1KTNqwKf2e126qS-W0Bh3FuV_RCMMyur9?usp=sharing]) 
+- 📁 Google Drive do Projeto: [Acessar pasta](https://drive.google.com/drive/folders/1KTNqwKf2e126qS-W0Bh3FuV_RCMMyur9?usp=sharing) 
 - 🔗Site referente ao projeto [Acesso a site](https://sites.google.com/view/portifliohub-gemini-d-f/p%C3%A1gina-inicial?authuser=0))
 
 
