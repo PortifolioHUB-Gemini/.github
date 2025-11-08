@@ -29,7 +29,7 @@ Implantar uma plataforma para armazenar, organizar e apresentar portfólios digi
 |----------------------------------|---------------|
 | Desenvolvimento                  |  08/11/2025   |
 | Revisão e alterações finais      |  XX/11/2025   |
-| Apresentação e Entrega Final     |  12/11/2025   |
+| Apresentação e Entrega Final     |  14/11/2025   |
 
 ---
 
